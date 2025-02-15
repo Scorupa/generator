@@ -2,7 +2,7 @@
 
 Just some fun miscellaneous script-generating.
 
-## (Notes for self) Available Scripts
+## (Notes for self) Available Scripts:
 
 In the project directory, you can run:
 
